@@ -4,5 +4,5 @@ Flutter application integrated with Firebase, created as part of 6th Semester mi
 
 Features included:
 - User signup/login
-- Display locations on map
+- Display sport venue locations on a map
 - Venue & Slot booking
