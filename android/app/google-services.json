@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367750504743",
+    "project_id": "sportmap-2ff8f",
+    "storage_bucket": "sportmap-2ff8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367750504743:android:c4399ed43bce12e6c30902",
+        "android_client_info": {
+          "package_name": "com.sportmap.sportmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367750504743-8dtgrackbscbleo4ho2utjdfhjrvh4bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "${dotenv.env['appikey']}"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367750504743-8dtgrackbscbleo4ho2utjdfhjrvh4bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
